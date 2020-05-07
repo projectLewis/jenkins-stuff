@@ -8,5 +8,5 @@
 ### to clean up
 1. docker-compose down
 2. docker ps -a
-  a. remove any images hanging around
-  b. alt - docker system prune -a
+  * remove any images hanging around
+  * alt - docker system prune -a
